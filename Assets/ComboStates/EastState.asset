@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b473def65e2522f44ad8e1255fc12b39, type: 3}
+  m_Name: EastState
+  m_EditorClassIdentifier: 
+  duration: 0
+  defaultState: {fileID: 11400000}
+  northState: {fileID: 0}
+  southState: {fileID: 0}
+  eastState: {fileID: 0}
+  westState: {fileID: 0}
